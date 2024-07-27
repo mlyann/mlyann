@@ -46,4 +46,5 @@ I am a Computer Science student at the University of Arizona, holding a perfect 
 
 To everyone, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
+[Minglai Yang](mailto:mlyang721@arizona.edu?subject=[GitHub]%20Source%20Han%20Sans)
 </ul>
