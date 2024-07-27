@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minglai Yang
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Minglai Yang](mailto:mlyang721@arizona.edu?subject=[GitHub]%20Source%20Han%20Sans)
 ==================================================================================================================================
 
 ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/)
@@ -46,5 +46,4 @@ I am a Computer Science student at the University of Arizona, holding a perfect 
 
 To everyone, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
-[Minglai Yang](mailto:mlyang721@arizona.edu?subject=[GitHub]%20Source%20Han%20Sans)
 </ul>
