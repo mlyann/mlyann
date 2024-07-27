@@ -1,10 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minglai Yang
 ==================================================================================================================================
 
-Software Developer
+ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/)
 ----------------
 
-An international student demonstrating intermediate Python proficiency with prior experience in Java, and actively contributing to several GitHub projects as a passion for Computer Science.
+I am a Computer Science student at the University of Arizona, holding a perfect 4.0 GPA and specializing in software development, probabilistic modeling, and machine learning. I am actively seeking internship opportunities for the summer months (May to August) of 2025. My expected graduation date is December 2025.
 
 * 🌍  I'm based in United States.
 * ✉️  You can contact me at [mlyang721@arizona.edu](mailto:mlyang721@arizona.edu)
