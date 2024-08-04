@@ -42,14 +42,8 @@ I am a Computer Science student at the University of Arizona, holding a perfect 
   <a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <!-- GPT -->
-  <a href="https://openai.com/gpt-3/" target="_blank" rel="noreferrer"><img src="https://openai.com/content/images/2022/05/openai-avatar.png" width="36" height="36" alt="GPT" /></a>
-  <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="36" height="36" alt="Machine Learning" /></a>
   <!-- PGM -->
   <a href="https://pgmpy.org/" target="_blank" rel="noreferrer"><img src="https://pgmpy.org/_static/pgmpy_logo.png" width="36" height="36" alt="PGM" /></a>
-  <!-- Graph Theory -->
-  <a href="https://graph-tool.skewed.de/" target="_blank" rel="noreferrer"><img src="https://graph-tool.skewed.de/static/img/logo.svg" width="36" height="36" alt="Graph Theory" /></a>
 </p>
 
 
