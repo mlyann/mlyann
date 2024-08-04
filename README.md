@@ -4,7 +4,9 @@
 ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/)
 ----------------
 
-I am a Computer Science student at the University of Arizona, holding a perfect 4.0 GPA and specializing in software development, probabilistic modeling, and machine learning. I am actively seeking internship opportunities for the summer months (May to August) of 2025. My expected graduation date is December 2025.
+I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in software development, probabilistic modeling, and machine learning. With hands-on experience as a Software Development Engineer intern at [CoreTechs Consulting Inc.](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects, I am actively seeking internship opportunities for the summer of 2025.
+
+I am proficient in Python, Java, and AWS, and have successfully led projects involving AI integration, web development, and data analysis. My academic journey includes developing dynamic Bayesian networks for human-AI interaction models, enhancing decision-making and computationally understand human-beings.
 
 * 🌍  I'm based in United States.
 * ✉️  You can contact me at [mlyang721@arizona.edu](mailto:mlyang721@arizona.edu)
