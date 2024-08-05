@@ -56,11 +56,13 @@ I am proficient in Python, Java, and AWS, and have successfully led projects inv
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mlyann"><img src="https://github-readme-stats.vercel.app/api?username=mlyann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mlyann's GitHub stats" /></a>
+<a href="http://www.github.com/mlyann"><img src="https://github-readme-stats.vercel.app/api?username=mlyann&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="mlyann's GitHub stats" /></a>
 
 <a href="http://www.github.com/mlyann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mlyann&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
 <a href="http://www.github.com/mlyann"><img src="https://github-readme-stats.vercel.app/api?username=mlyann&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="GitHub Commits Graph" /></a>
+
 
 ### Coffee Chat
 
