@@ -11,7 +11,7 @@ I am proficient in Python, Java, and AWS, and have successfully led projects inv
 * 🌍  I'm based in United States.
 * ✉️  You can contact me at [mlyang721@arizona.edu](mailto:mlyang721@arizona.edu)
 * 🧠  I'm learning Python, Swift, Java, JavaScript, AI and ML
-* 🤝  I'm open to collaborating on Projects. This is one of the largest project I'm contributing to: https://ml4ai.github.io/tomcat/
+* 🤝  I'm open to collaborating on Projects. This is one project I'm contributing to: https://ml4ai.github.io/tomcat/
 * ⚡  I love reading machine learning theory and applied math papers and develop multi-modal models.
 * 🤩 If you pay interest, please [visit my website](mlyann.github.io).
 
