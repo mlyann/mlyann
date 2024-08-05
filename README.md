@@ -1,12 +1,11 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Minglai Yang](https://mlyann.github.io)
 
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 ==================================================================================================================================
 
 ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/)
 ----------------
+ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in software development, probabilistic modeling, and machine learning. With hands-on experience as a Software Development Engineer intern at [CoreTechs Consulting Inc.](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects, I am actively seeking internship opportunities for the summer of 2025.
 
