@@ -15,7 +15,7 @@ I am proficient in Python, JavaScript, and AWS, and have successfully led projec
 * 🧠  I'm learning Python, Swift, Java, JavaScript, AI and ML
 * 🤝  I'm open to collaborating on Projects. This is one project I'm contributing to: https://ml4ai.github.io/tomcat/
 * ⚡  I love reading machine learning theory and applied math papers and develop multi-modal models.
-* 🤩 If you pay interest, please [visit my website](ymingl.com).
+* 🤩 If you pay interest, please [visit my website](https://ymingl.com/).
 
 # 💻Tech Stack
 <p align="left">
