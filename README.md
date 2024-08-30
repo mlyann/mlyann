@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Minglai Yang](https://mlyann.github.io)
 ==================================================================================================================================
 
-ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/) & Vice President @[Arizona AI Club](https://uaaiclub.com/)
+ML Research Assistant @[IVILAB](https://ivilab.org/) & AI Engineer @[AI Core](https://aicore.arizona.edu/) & Vice President @[UArizona AI Club](https://uaaiclub.com/)
 ----------------
  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
