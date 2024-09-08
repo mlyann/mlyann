@@ -64,6 +64,6 @@ I am proficient in Python, JavaScript, and AWS, and have successfully led projec
 
 ### Coffee Chat
 
-To everyone, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me ([mlyang721@arizona.edu](mailto:mlyang721@arizona.edu)) to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
+To everyone, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me ([mingly@arizona.edu](mailto:mingly@arizona.edu)) to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
 </ul>
