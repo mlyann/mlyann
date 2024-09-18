@@ -11,7 +11,7 @@ I am a high-achieving Computer Science student at the University of Arizona with
 I am proficient in Python, JavaScript, and AWS, and have successfully led projects involving AI integration, web development, and data analysis. My academic journey includes developing dynamic Bayesian networks for human-AI interaction models, enhancing decision-making and computationally understand human-beings.
 
 * 🌍  I'm based in United States.
-* ✉️  You can contact me at [mlyang721@arizona.edu](mailto:mlyang721@arizona.edu)
+* ✉️  You can contact me at [mingly@arizona.edu](mailto:mingly@arizona.edu)
 * 🧠  I'm learning Python, Swift, Java, JavaScript, AI and ML
 * 🤝  I'm open to collaborating on Projects. This is one project I'm contributing to: https://ml4ai.github.io/tomcat/
 * ⚡  I love reading machine learning theory and applied math papers and developing multi-modal models.
