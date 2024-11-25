@@ -60,6 +60,7 @@ I am proficient in Python, JavaScript, and AWS, and have successfully led projec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mlyann&icon=0&color=12)](https://visitcount.itsvg.in)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ### Coffee Chat
