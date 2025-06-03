@@ -2,6 +2,7 @@
 ==================================================================================================================================
 
 Research Assistant in AI Agents/NLP @[IVILAB](https://ivilab.org/), @[CLULAB](https://clulab.org/), @[ML4AI LAB](https://ml4ai.github.io/)
+
 President @ [UArizona AI Club](https://uaaiclub.com/)
 ----------------
  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
