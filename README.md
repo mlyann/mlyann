@@ -6,13 +6,13 @@ Researcher @[IVILAB](https://ivilab.org/), @[CLULAB](https://clulab.org/), @[ML4
  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in software development, probabilistic modeling, and machine learning. With hands-on experience as a Machine Leanring Engineer intern at [CoreTechs](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects. I will be a visiting researcher in Tsinghua University this summer, advised by Juanzi Li.
+I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in software development, probabilistic modeling, and machine learning. With hands-on experience as a Machine Leanring Engineer intern at [CoreTechs](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects. I was a visiting researcher in Tsinghua University this summer working on mechanism interpretability and knowledge graph.
 
-I am proficient in Python, JavaScript, and AWS, and have successfully led projects involving AI integration, web development, and data analysis. My academic journey includes developing dynamic Bayesian networks for human-AI interaction models, enhancing decision-making and computationally understand human-beings.
+I am proficient in Python, JavaScript, and AWS, and have successfully led projects involving AI integration, web development, and data analysis. My academic journey includes understanding and improving LLM reasoning.
 
 * 🌍  I'm based in United States.
 * ✉️  You can contact me at [mingly@arizona.edu](mailto:mingly@arizona.edu)
-* 🧠  I'm learning Python, Swift, Java, JavaScript, AI and ML
+* 🧠  I'm learning Python, Swift, Java, JavaScript, AI and ML.
 * 🤝  I'm open to collaborating on Projects. This is one project I'm contributing to: https://ml4ai.github.io/tomcat/
 * ⚡  I love reading machine learning theory and applied math papers and developing multi-modal models.
 * 🤩 If you pay interest, please [visit my website](https://ymingl.com/).
